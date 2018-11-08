@@ -1,3 +1,7 @@
+<?php
+    header("Location: presentacion.php");
+    die();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,8 +12,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php include 'cabecera.php'; ?>
-    <?php include 'navegador.php'; ?>
+    <?php include 'cabecera.php' ?>
+    <?php include 'navegador.php' ?>
+    <?php include 'pie_pag.php' ?>
 
 </body>
 </html>

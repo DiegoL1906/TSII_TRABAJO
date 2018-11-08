@@ -8,8 +8,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php include 'cabecera.php'; ?>
-    <?php include 'navegador.php'; ?>
+    <?php include 'cabecera.php' ?>
+    <?php include 'navegador.php' ?>
+    <section id="seccion">
+        
+    </section>
+    <?php include 'pie_pag.php' ?>
 
 </body>
 </html>

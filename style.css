@@ -39,7 +39,7 @@ header{
 }
 
 nav {
-    margin-top: -20px;
+    margin-top: -16px;
     clear: both;
     background-color: rgb(74, 94, 161);
 
@@ -62,3 +62,93 @@ nav > ul > li > a {
     font-size: 20px;
     font-family: cursive;
 }
+
+footer {
+    height: 60px;
+    background-color: rgb(47, 110, 110);
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-left: 50%;
+    padding-right: 50%;
+
+}
+
+footer > p {
+    height: 30px;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+}
+
+#seccion {
+    margin-top: -16px;
+    padding-top: 5px;
+    background-image: url(https://www.doctorantoniorios.com/wp-content/uploads/2014/10/clinica-doctor-rios-10.jpg);
+    font-family: cursive;
+    height: 900px;
+}
+
+#mision {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width:  900px;
+    border-radius: 15px;
+    border-top: 5px solid rgb(110, 102, 102);
+    border-bottom: 5px solid rgb(110, 102, 102);
+    background-color: rgb(102, 147, 168);   
+}
+
+#vision {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width:  900px;
+    border-radius: 15px;
+    border-top: 5px solid rgb(110, 102, 102);
+    border-bottom: 5px solid rgb(110, 102, 102);
+    background-color: rgb(87, 103, 136);
+}
+
+.titulo {
+    padding-left: 45%;
+    font-weight: bold;
+    color: beige;
+    font-size: 25px;
+}
+
+#foto_1 {
+    float: right;
+    display: inline;
+    padding-right: 10%; 
+}
+
+#texto_1 {
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 10%;
+    width: 300px;
+    color: rgb(219, 217, 217);
+}
+
+#texto_2 {
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 3%;
+    width: 400px;
+    color: rgb(219, 217, 217);
+}
+
+#foto_2 {
+    padding-top: 10px;
+    float: left;
+    display: inline;
+    padding-left: 5%; 
+}
+
