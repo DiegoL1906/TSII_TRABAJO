@@ -90,7 +90,7 @@ footer > p {
 }
 
 #mision {
-    margin-top: 40px;
+    margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
     height: 400px;
@@ -151,4 +151,30 @@ footer > p {
     display: inline;
     padding-left: 5%; 
 }
+
+#med {
+    border-radius: 10px;
+    border-top: 4px solid rgb(60, 67, 131);
+    border-bottom: 4px solid rgb(60, 67, 131);
+    margin-top: 50px;
+    padding-top: 15px;
+    height: 400px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(111, 126, 148);
+    color: rgb(255, 255, 255);
+}
+
+table {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boton {
+    margin-top: 10px;
+}
+
+
 
