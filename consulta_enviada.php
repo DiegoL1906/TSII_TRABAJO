@@ -10,8 +10,8 @@
 <body>
     <?php include 'cabecera.php' ?>
     <?php include 'navegador.php' ?>
-    <section id="seccion">
-        
+    <section>
+        <p>Consulta enviada exitosamente</p>
     </section>
     <?php include 'pie_pag.php' ?>
 

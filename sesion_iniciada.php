@@ -1,3 +1,6 @@
+<?php
+    session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +13,8 @@
 <body>
     <?php include 'cabecera.php' ?>
     <?php include 'navegador.php' ?>
-    <section id="seccion">
-        
+    <section>
+        <p>Ha iniciado sesión exitosamente</p>
     </section>
     <?php include 'pie_pag.php' ?>
 

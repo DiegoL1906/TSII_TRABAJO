@@ -79,18 +79,18 @@
                 </tr>
                 <tr>
                     <th>
-                        <label for="correo">Email:</label>
+                        <label for="telefono">Número de contacto:</label>
                     </th>
                     <th>
-                        <input type="email" name="correo">
+                        <input type="text" name="telefono">
                     </th>
                 </tr>
                 <tr>
                     <th>
-                        <label for="usuario">Nombre de usuario:</label>
+                        <label for="correo">Email:</label>
                     </th>
                     <th>
-                        <input type="text" name="usuario">
+                        <input type="email" name="correo">
                     </th>
                 </tr>
                 <tr>

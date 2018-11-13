@@ -166,14 +166,38 @@ footer > p {
     color: rgb(255, 255, 255);
 }
 
-table {
-    border-radius: 10px;
-    margin-left: auto;
-    margin-right: auto;
+
+#error {
+    color: red;
+    font-size: 20px;
 }
 
-#boton {
-    margin-top: 10px;
+#inises {
+    border-radius: 10px;
+    border-top: 4px solid rgb(60, 67, 131);
+    border-bottom: 4px solid rgb(60, 67, 131);
+    margin-top: 50px;
+    padding-top: 15px;
+    height: 100px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(111, 126, 148);
+    color: rgb(255, 255, 255);
+}
+
+#cons {
+    border-radius: 10px;
+    border-top: 4px solid rgb(60, 67, 131);
+    border-bottom: 4px solid rgb(60, 67, 131);
+    margin-top: 50px;
+    padding-top: 30px;
+    height: 450px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(111, 126, 148);
+    color: rgb(255, 255, 255);
 }
 
 

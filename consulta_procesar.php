@@ -2,12 +2,11 @@
 $nombres = $_POST["nombres"];
 $apellidos = $_POST["apellidos"];
 $dni = $_POST["dni"];
+$sexo = $_POST["sexo"];
+$edad = $_POST["edad"];
 $especialidad = $_POST["especialidad"];
-$lugares = $_POST["lugares"];
-$lugares = $_POST["lugares"];
-$telefono = $_POST["telefono"];
-$contraseña = $_POST["contraseña"];
+$sintomas = $_POST["lugares"];
+$correo = $_POST["correo"];
 
 header("Location: registro_exitoso.php");
-
 ?>
